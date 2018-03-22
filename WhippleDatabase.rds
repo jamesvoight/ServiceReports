@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="WhippleDatabase">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=CARTMAN;Initial Catalog=Whipple</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>70e4245e-a194-4e35-a80d-c5fee5f49e89</DataSourceID>
+</RptDataSource>
